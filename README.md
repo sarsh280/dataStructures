@@ -1,4 +1,4 @@
-# dataStructures
+# Data Structures
 Advanced version of basic Data structures in C
 
 Test cases Passed:
